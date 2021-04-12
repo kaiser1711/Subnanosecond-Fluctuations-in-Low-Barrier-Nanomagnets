@@ -2,7 +2,7 @@
 
 This repository reproduces the numerical results of the publication: Kaiser et al., "Subnanosecond fluctuations in low-barrier nanomagnets." Physical Review Applied 12, no. 5 (2019): 054056. The python notebook solves the stochastic Landau–Lifshitz–Gilbert (sLLG) equation for easy plane magnets numerically. It computes the autocorrelation and the ensemble average and compares them to the analytical formulas that were derived in the paper.
 
-### To do (left for exercise):
+### To do (left as an exercise):
 Solve the sLLG equation for low-barrier AFM as done in the paper.
 
 ### Useful Links:
